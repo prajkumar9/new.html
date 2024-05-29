@@ -30,10 +30,10 @@
     </div>
     <script>
         const products = [
-            { name: "Product 1", description: "https://amzn.in/d/6xTO3nS", price: "22000/-" },
-            { name: "Product 2", description: "Description for product 2", price: "$20" },
+            { name: "Product 1", description: <a href="https://amzn.in/d/6xTO3nS">Laptop</a>, price: "22000/-" },
+            { name: "Product 2", description: "Description for product 2", price: "$20" }
             // Add more products as needed
-        ];
+        ]
         const productList = document.getElementById('product-list');
         products.forEach(product => {
             const productDiv = document.createElement('div');
