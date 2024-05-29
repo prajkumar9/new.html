@@ -25,7 +25,7 @@
     </div>
     <div class="contact-info">
         <h2>Contact Information</h2>
-        <p>Email: <a href="mailto: Prodhuturirajkumar2@gmail.com">your-email@example.com</a></p>
+        <p>Email:"mailto: Prodhuturirajkumar2@gmail.com"</p>
         <p>Phone: 9030508174,7416203258 </p>
     </div>
     <script>
@@ -33,7 +33,7 @@
             { name: "Product 1", description: <a href="https://amzn.in/d/6xTO3nS">Laptop</a>, price: "22000/-" },
             { name: "Product 2", description: "Description for product 2", price: "$20" }
             // Add more products as needed
-        ]
+        ];
         const productList = document.getElementById('product-list');
         products.forEach(product => {
             const productDiv = document.createElement('div');
