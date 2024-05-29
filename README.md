@@ -1,4 +1,4 @@
-html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -32,6 +32,7 @@ html lang="en">
         const products = [
             { name: "Product 1", description: "Description for product 1", price: "$10" },
             { name: "Product 2", description: "Description for product 2", price: "$20" },
+            { name: "product 3", description: "The link of the product is given in description copy to buy the product"},
             // Add more products as needed
         ];
 
@@ -57,4 +58,3 @@ html lang="en">
         });
     </script>
 </body>
-</html>
