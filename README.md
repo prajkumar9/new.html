@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -25,12 +25,12 @@
     </div>
     <div class="contact-info">
         <h2>Contact Information</h2>
-        <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
-        <p>Phone: 123-456-7890</p>
+        <p>Email: <a href="mailto: Prodhuturirajkumar2@gmail.com">your-email@example.com</a></p>
+        <p>Phone: 9030508174,7416203258 </p>
     </div>
     <script>
         const products = [
-            { name: "Product 1", description: "Description for product 1", price: "$10" },
+            { name: "Product 1", description: "https://amzn.in/d/6xTO3nS", price: "22000/-" },
             { name: "Product 2", description: "Description for product 2", price: "$20" },
             // Add more products as needed
         ];
